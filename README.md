@@ -36,3 +36,8 @@ Make sure to deploy the output of `remix build`
 
 - `build/`
 - `public/build/`
+
+
+```
+npx supabase gen types typescript --project-id "ohcapsrdpmsljknviqxh" --schema public > app/types/supabase.ts
+```
