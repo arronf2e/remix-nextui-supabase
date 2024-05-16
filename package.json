@@ -1,6 +1,5 @@
 {
   "name": "remix-nextui-supabase",
-  "private": true,
   "sideEffects": false,
   "type": "module",
   "scripts": {
