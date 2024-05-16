@@ -1,6 +1,6 @@
 {
   "name": "rns_project",
-  "versin": "1.0.1",
+  "version": "1.0.1",
   "sideEffects": false,
   "type": "module",
   "scripts": {
